@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+data/similarity_matrix.pkl
+.pytest_cache/
